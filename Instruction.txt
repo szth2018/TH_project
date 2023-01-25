@@ -1,0 +1,2 @@
+Please install corresponding modules for run. After installation, please go to the file 'app' ,
+and then run the terminal at VScode with the commend 'npm run dev' to view the demo
